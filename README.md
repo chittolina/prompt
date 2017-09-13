@@ -1,0 +1,2 @@
+# prompt
+Bash prompt customization
